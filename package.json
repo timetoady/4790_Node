@@ -1,0 +1,19 @@
+{
+  "name": "4790_node",
+  "version": "1.0.0",
+  "description": "First of semester",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timetoady/4790_Node.git"
+  },
+  "author": "timetoady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timetoady/4790_Node/issues"
+  },
+  "homepage": "https://github.com/timetoady/4790_Node#readme"
+}
